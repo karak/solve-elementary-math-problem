@@ -1,0 +1,14 @@
+{
+  "name": "solve-elementary-math-problem",
+  "version": "1.0.0",
+  "description": "Solver of an elementary math problem",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "private": true
+}
